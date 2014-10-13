@@ -1,6 +1,6 @@
 # Coffee Shop Locator
 
-### Shop Locator is an application that allows a user to input an address of place and will return ten of the closet coffee shops.
+Shop Locator is an application that allows a user to input an address of place and will return ten of the closet coffee shops.
 
 ### Technologies Used
 
@@ -9,21 +9,12 @@
 * [Geocoder](http://www.rubygeocoder.com/)
 * [Google Place API - Pleace Search](https://developers.google.com/places/documentation/search)
 
-* System dependencies
-* Configuration
+### Configuration
 
-* Database creation
+To setup app, run 'bundle install', 'rake db:migrate', 'rails s' and the app will display on 'localhost:3000'
 
-* Database initialization
+### Notes
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+*I would like to incorprate a map to display closest coffee locations visaully rather than a list
+*Ability for users to login and logout, follow other users, and add coffee shops to a favorites list
+*Work on styling and UX and mobile view
