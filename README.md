@@ -1,6 +1,6 @@
 # Coffee Shop Locator
 
-Shop Locator is an application that allows a user to input an address or place and will return ten of the closet coffee shops.
+Shop Locator is an application that allows a user to input an address or place and will return ten of the closest coffee shops.
 
 ### Technologies Used
 
