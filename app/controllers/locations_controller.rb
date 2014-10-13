@@ -15,7 +15,6 @@ class LocationsController < ApplicationController
   # GET /locations/1.json
   def show
     @response = HTTParty.get("https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=#{@location.latitude},#{@location.longitude}&rankby=distance&keyword=coffee&key=AIzaSyCQsaYsMJhuIED0UVhYlRuHXy1P-Gy-wsE")
-    #@response = @response[1..10]
     #binding.pry
   end
 
