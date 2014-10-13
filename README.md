@@ -1,6 +1,6 @@
 # Coffee Shop Locator
 
-Shop Locator is an application that allows a user to input an address of place and will return ten of the closet coffee shops.
+Shop Locator is an application that allows a user to input an address or place and will return ten of the closet coffee shops.
 
 ### Technologies Used
 
@@ -15,6 +15,6 @@ To setup app, run 'bundle install', 'rake db:migrate', 'rails s' and the app wil
 
 ### Notes
 
-*I would like to incorprate a map to display closest coffee locations visaully rather than a list
-*Ability for users to login and logout, follow other users, and add coffee shops to a favorites list
-*Work on styling and UX and mobile view
+* I would like to incorprate a map to display closest coffee locations visaully rather than a list
+* Ability for users to login and logout, follow other users, and add coffee shops to a favorites list
+* Work on styling and UX and mobile view
